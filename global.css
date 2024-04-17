@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-josefin-sans: "Josefin Sans";
+    --font-neue-montreal: "Neue Montreal";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-xl: 20px;
+    --font-size-7xl: 26px;
+    --font-size-2xl: 21px;
+    --font-size-27xl: 46px;
+    --font-size-9xl: 28px;
+    --font-size-18xl: 37px;
+    --font-size-3xl: 22px;
+    --font-size-lg: 18px;
+    --font-size-5xl: 24px;
+    --font-size-sm: 14px;
+  
+    /* Colors */
+    --color-antiquewhite: #ebe3cc;
+    --color-darkslategray-100: #386170;
+    --color-darkslategray-200: #224453;
+    --color-darkslategray-300: #062d3e;
+    --color-darkslategray-400: rgba(6, 45, 62, 0.77);
+    --color-white: #fff;
+    --color-orangered: #ed5c01;
+    --color-gold: #fbbd08;
+    --color-darkcyan: #189cab;
+    --color-gray: rgba(0, 0, 0, 0.4);
+  
+    /* Gaps */
+    --gap-7xl: 26px;
+    --gap-xl: 20px;
+    --gap-base: 16px;
+    --gap-6xl: 25px;
+    --gap-sm: 14px;
+    --gap-19xl: 38px;
+    --gap-lgi: 19px;
+    --gap-71xl: 90px;
+    --gap-3xl: 22px;
+    --gap-26xl: 45px;
+  
+    /* Paddings */
+    --padding-80xl: 99px;
+    --padding-45xl: 64px;
+    --padding-148xl: 167px;
+    --padding-64xl: 83px;
+    --padding-xl: 20px;
+    --padding-8xs: 5px;
+    --padding-10xs: 3px;
+    --padding-lgi: 19px;
+    --padding-5xl: 24px;
+    --padding-12xs: 1px;
+    --padding-6xl: 25px;
+    --padding-28xl: 47px;
+    --padding-xs: 12px;
+    --padding-13xl: 32px;
+    --padding-9xs: 4px;
+    --padding-23xl: 42px;
+    --padding-26xl: 45px;
+    --padding-22xl: 41px;
+    --padding-11xl: 30px;
+    --padding-9xl: 28px;
+    --padding-4xs: 9px;
+    --padding-63xl: 82px;
+  
+    /* Border radiuses */
+    --br-17xl: 36px;
+    --br-171xl: 190px;
+    --br-47xl: 66px;
+  }
+  
